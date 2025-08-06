@@ -5,9 +5,8 @@ This page informs you of our policies regarding the collection, use, and disclos
 ## Brief overview of our commitment to privacy
 At Lilucat, we believe that the less information we know about you, the better. After all, it is impossible to lose, misuse, or abuse information we don't have.
 
-
 ## Personal Data
-We don't collect and don't have access to the personal data that you save in QR by Lilucat. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Storage Cleaner by Lilucat our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
+We don't collect and don't have access to the personal data that you save in AI Cleaner by Lilucat. Everything you do is saved locally on your device and never shared with anyone even with us. When you use our software we may record some usage analytics, subscription validation, and crash logs. The sole purpose of this data is to help us make better decisions on where to Storage Cleaner by Lilucat our efforts and improve our software. You provide some data directly, such as when you contact us for support. Such data is limited to your email address only.
 
 
 ## Subscription validation
@@ -20,7 +19,6 @@ The receipt validation is used to manage and update subscription status. To mana
 
 We use RevenueCat to collect and manage this data.
 
-
 ## Usage analytics
 The app usage analytics collected is minimal but essential to help us run our business. Currently, we collect:
 
@@ -29,7 +27,6 @@ The app usage analytics collected is minimal but essential to help us run our bu
 * Device type, CPU architecture, and version of the operating system.
 
 We use MixPanel to collect and manage this data.
-
 
 ## Crash logs
 Crash logs are, by default, automatically sent on the next app start. These logs contain anonymized data about the crash that can help us identify the cause and potentially provide a fix in a future update. These logs do not contain any data or metadata about the content you create with our software. Here’s what’s collected:
